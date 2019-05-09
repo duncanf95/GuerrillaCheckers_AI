@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guerrilla Checkers</string>
+    <string-array name="team_names">
+        <item>Counter-Insurgents</item>
+        <item>Guerrillas</item>
+    </string-array>
+    <string name="dialog_choose_team">Choose your preferred team:</string>
+    
+</resources>

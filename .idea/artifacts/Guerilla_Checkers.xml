@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="Guerilla Checkers">
+    <output-path>$PROJECT_DIR$</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+      </options>
+    </properties>
+    <root id="archive" name="Guerilla Checkers.apk">
+      <element id="android-final-package" facet="guerillaCheckers/android/Android" />
+    </root>
+  </artifact>
+</component>

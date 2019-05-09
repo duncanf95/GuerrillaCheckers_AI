@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GuerillaCheckers-GUI_Updates.iml" filepath="$PROJECT_DIR$/GuerillaCheckers-GUI_Updates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guerillaCheckers/guerillaCheckers.iml" filepath="$PROJECT_DIR$/guerillaCheckers/guerillaCheckers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guerillaCheckersCore/guerillaCheckersCore.iml" filepath="$PROJECT_DIR$/guerillaCheckersCore/guerillaCheckersCore.iml" />
+    </modules>
+  </component>
+</project>
